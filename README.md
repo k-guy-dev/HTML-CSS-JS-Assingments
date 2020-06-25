@@ -6,4 +6,4 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution](https://k-guy-dev.github.io/HTML-CSS-JS-Assingments/Module-2Assignment/)
+* [Solution](https://k-guy-dev.github.io/HTML-CSS-JS-Assingments/Module-2Assingment/)
