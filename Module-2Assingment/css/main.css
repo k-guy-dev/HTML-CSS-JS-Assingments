@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
 }
-
+body{
+  background-color: #94507a;
+}
 .heading {
   font-family: cursive;
   margin: 3% 0 0 50%;
