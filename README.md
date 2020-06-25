@@ -14,3 +14,5 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 4
 * [Solution](https://k-guy-dev.github.io/HTML-CSS-JS-Assingments/Module-4Assingment/)
 
+### Module 4
+* [Solution](https://k-guy-dev.github.io/HTML-CSS-JS-Assingments/Module-5Assingment/)
