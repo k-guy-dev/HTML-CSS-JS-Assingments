@@ -6,6 +6,7 @@ body{
 }
 .heading {
   font-family: cursive;
+  text-decoration: underline;
   margin: 3% 0 0 50%;
 }
 @media (min-width: 992px) {
